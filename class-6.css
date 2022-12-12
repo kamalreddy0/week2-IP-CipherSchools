@@ -1,0 +1,20 @@
+/* class selactor */
+.heading {
+ background-color: #000;
+}
+/* id selector */
+#one {
+font-size: 25px;
+}
+/* desendent selector */
+.div p{
+    font-size: 60px;
+}
+/* grouping selector */
+h1,h2,h3,h4,h5,h6{
+    color: aliceblue;
+}
+/* combining selector */
+.container {
+    font-style: italic;
+}
